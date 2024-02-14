@@ -1,0 +1,1 @@
+const adminCommands = require('./adminCommands');
